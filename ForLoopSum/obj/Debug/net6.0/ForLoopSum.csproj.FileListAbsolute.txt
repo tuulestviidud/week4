@@ -1,0 +1,14 @@
+C:\Users\kasutaja.T470-28EXB\source\repos\Week4Loops\ForLoopSum\bin\Debug\net6.0\ForLoopSum.exe
+C:\Users\kasutaja.T470-28EXB\source\repos\Week4Loops\ForLoopSum\bin\Debug\net6.0\ForLoopSum.deps.json
+C:\Users\kasutaja.T470-28EXB\source\repos\Week4Loops\ForLoopSum\bin\Debug\net6.0\ForLoopSum.runtimeconfig.json
+C:\Users\kasutaja.T470-28EXB\source\repos\Week4Loops\ForLoopSum\bin\Debug\net6.0\ForLoopSum.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Week4Loops\ForLoopSum\bin\Debug\net6.0\ForLoopSum.pdb
+C:\Users\kasutaja.T470-28EXB\source\repos\Week4Loops\ForLoopSum\obj\Debug\net6.0\ForLoopSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja.T470-28EXB\source\repos\Week4Loops\ForLoopSum\obj\Debug\net6.0\ForLoopSum.AssemblyInfoInputs.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Week4Loops\ForLoopSum\obj\Debug\net6.0\ForLoopSum.AssemblyInfo.cs
+C:\Users\kasutaja.T470-28EXB\source\repos\Week4Loops\ForLoopSum\obj\Debug\net6.0\ForLoopSum.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Week4Loops\ForLoopSum\obj\Debug\net6.0\ForLoopSum.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Week4Loops\ForLoopSum\obj\Debug\net6.0\refint\ForLoopSum.dll
+C:\Users\kasutaja.T470-28EXB\source\repos\Week4Loops\ForLoopSum\obj\Debug\net6.0\ForLoopSum.pdb
+C:\Users\kasutaja.T470-28EXB\source\repos\Week4Loops\ForLoopSum\obj\Debug\net6.0\ForLoopSum.genruntimeconfig.cache
+C:\Users\kasutaja.T470-28EXB\source\repos\Week4Loops\ForLoopSum\obj\Debug\net6.0\ref\ForLoopSum.dll
